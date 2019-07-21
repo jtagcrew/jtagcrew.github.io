@@ -4,7 +4,7 @@
 
 JTAG is a standard originally designed for testing electrical connections between components on a printed circuit board.
 
-While it still serves that purpose, it has evolved to provide debugging capabilities on 
+While it still serves that purpose, it has evolved to provide debugging capabilities on CPUs, DSPs, FPGAs, etc. For instance you can use JTAG to change a register value on a micro-controller while it is running.
 
 ## Why would I want to play with JTAG?
 
