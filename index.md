@@ -22,7 +22,7 @@ You will need two things :
 
 There are multiple JTAG solutions availables. Two of the most common ones are [OpenOCD](http://openocd.org/) and [UrJTAG](http://urjtag.org/).
 
-There is no perfect JTAG software, as each IC has its own JTAG specs (IR length, instruction set, etc.). OpenOCD is what the cool kids use but sometimes it is better to use UrJTAG if you are hacking old Broadcom routers, or if you are thinking about modifying its source code. Sometimes you will have to choice but to use the IC's manufacturer software to interact with the chip.
+There is no perfect JTAG software, as each IC has its own JTAG specs (IR length, instruction set, etc.). OpenOCD is what the cool kids use but sometimes it is better to use UrJTAG if you are hacking old Broadcom routers, or if you are thinking about modifying its source code. Sometimes you will have no choice but to use the IC's manufacturer software to interact with the chip.
 
 ### JTAG interface
 
