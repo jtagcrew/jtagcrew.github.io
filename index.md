@@ -18,7 +18,7 @@ You will need two things :
  * A hardware interface that will be electrically connected to the board you want to play with
  * A software talking to the hardware interface
 
-### JTAG software
+### JTAG software ([more...](software.md))
 
 There are multiple JTAG solutions availables. Two of the most common ones are [OpenOCD](http://openocd.org/) and [UrJTAG](http://urjtag.org/).
 
